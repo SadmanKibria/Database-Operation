@@ -1,0 +1,11 @@
+1685 1750 Bach
+1770 1827 Beethoven
+1803 1869 Berlioz
+1838 1875 Bizet
+1833 1897 Brahms
+1810 1849 Chopin
+1685 1759 Handel
+1732 1809 Haydn
+1756 1791 Mozart
+1782 1840 Paganini
+1797 1828 Schubert
